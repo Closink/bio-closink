@@ -5,7 +5,7 @@
 
 `my name:Closink or CRXSS`
 `my age:17 years old `
-`my pups:`
+`my pups:@grigori_maibah,@GraffX,@Hakeiu,@OpiumOs1nt,@Lezh1gol,@mef_bobka,@VexStorm`
 `date of birth:28.07`
 
 
