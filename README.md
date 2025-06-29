@@ -27,7 +27,7 @@
 ## 💻 МОИ ПРОЕКТЫ
 
 ### 1. [Christian steps](https://t.me/+bNP53gq3IvI5MDcy)
-### 2 [wrecker snoser]
+### 2 [wrecker snoser] временно не работает
 ```python
 def erase_digital_trace():
     # Автоматизация удаления аккаунтов
