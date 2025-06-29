@@ -9,7 +9,7 @@
 [![OSINT](https://img.shields.io/badge/🕵️_OSINT-FFA500?style=for-the-badge)](https://t.me/+bNP53gq3IvI5MD)
 
 <!-- 3. ВОЗРАСТ + СТАТУС -->
-![Age](https://img.shields.io/badge/🎂_Возраст-XX_лет-FF69B4?style=flat-square)
+![Age](https://img.shields.io/badge/🎂_Возраст-17_лет-FF69B4?style=flat-square)
 ![Status](https://img.shields.io/badge/🔍_Сейчас_ищу_инфу_в_интернетах-00AA00?style=flat-square)
 
 </div>
