@@ -7,12 +7,12 @@
 
 `my age:17 years old `
 
-`mypups:@grigori_maibah,@GraffX,@Hakeiu,@OpiumOs1nt,@Lezh1gol,@mef_bobka,@VexStorm`
+`mypups:@grigori_maibah,@GraffX,@Hakeiu,@OpiumOs1nt,@Lezh1gol,@mef_bobka,@VexStorm,@Jrkdhfing`
 
 `date of birth:28.07`
 
 
-[![Контакты](https://img.shields.io/badge/@ВАШ_ТГ_ЮЗЕР-26A5E4?style=for-the-badge&logo=telegram)](https://t.me/CR_XSS)  
+[![Контакты](https://img.shields.io/badge/мой_тг-26A5E4?style=for-the-badge&logo=telegram)](https://t.me/CR_XSS)  
 [![ТГК](https://img.shields.io/badge/Мой_Канал-0088CC?style=for-the-badge&logo=telegram)](https://t.me/https://t.me/+bNP53gq3IvI5MDcy)  
 
 
