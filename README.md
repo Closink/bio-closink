@@ -1,9 +1,9 @@
 <div align="center">
 
-# 🔐 CR_XSS  
+# 🔐 CLOSINK 
 **OSINT | Цифровая защита | Telegram-аналитика**  
 
-`my name:Closink or CRXSS`
+`my name:Closink`
 
 `my age:17 years old `
 
