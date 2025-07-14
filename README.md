@@ -12,7 +12,7 @@
 `date of birth:28.07`
 
 
-[![Контакты](https://img.shields.io/badge/мой_тг-26A5E4?style=for-the-badge&logo=telegram)](https://t.me/CR_XSS)  
+[![Контакты](https://img.shields.io/badge/мой_тг-26A5E4?style=for-the-badge&logo=telegram)](https://t.me/closink)  
 [![ТГК](https://img.shields.io/badge/Мой_Канал-0088CC?style=for-the-badge&logo=telegram)](https://t.me/https://t.me/+bNP53gq3IvI5MDcy)  
 
 
@@ -34,7 +34,7 @@
 
 ## 💻 МОИ ПРОЕКТЫ
 
-### 1. [Christian steps](https://t.me/+bNP53gq3IvI5MDcy)
+### 1. [newell](https://t.me/+bNP53gq3IvI5MDcy)
 ### 2 [wrecker snoser] временно не работает
 ```python
 def erase_digital_trace():
