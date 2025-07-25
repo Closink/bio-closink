@@ -35,7 +35,7 @@
 ## 💻 МОИ ПРОЕКТЫ
 
 ### 1. [newell](https://t.me/+bNP53gq3IvI5MDcy)
-### 2 [wrecker snoser] временно не работает
+### 2 [wrecker snoser] (t.me/wrecker_snoserbot)
 ```python
 def erase_digital_trace():
     # Автоматизация удаления аккаунтов
