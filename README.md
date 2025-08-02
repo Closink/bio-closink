@@ -7,7 +7,7 @@
 `☠ 𝕯𝖆𝖗𝖐𝖓𝖊𝖙-𝖆𝖕𝖕𝖗𝖔𝖛𝖊𝖉 𝖙𝖊𝖈𝖍𝖓𝖎𝖖𝖚𝖊𝖘`  
 
 [![𝕿𝖊𝖑𝖊𝖌𝖗𝖆𝖒](https://img.shields.io/badge/𝕮𝖔𝖓𝖙𝖆𝖈𝖙_𝕮𝖑𝖔𝖘𝖎𝖓𝖐-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/closink)  
-[![𝕮𝖍𝖆𝖓𝖓𝖊𝖑](https://img.shields.io/badge/𝕹𝖊𝖜𝖊𝖑𝖑_𝕺𝖘𝖎𝖓𝖙-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+bNP53gq3IvI5MDcy)  
+[![𝕮𝖍𝖆𝖓𝖓𝖊𝖑](https://img.shields.io/badge/𝖐𝖊𝖐𝖘𝖔𝖔𝖓-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+bNP53gq3IvI5MDcy)  
 
 </div>
 
