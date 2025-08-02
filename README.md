@@ -7,8 +7,8 @@
 `MY NAME: CLOSINK | 
 MY CASTA:OSINT,SWAT,SNOS`
 
-[![TERMINAL](https://img.shields.io/badge/ACCESS-RED)](https://t.me/closink)  
-[![INTEL](https://img.shields.io/badge/FEED-GREEN)](https://t.me/+bNP53gq3IvI5MDcy)  
+[![MY TG](https://img.shields.io/badge/ACCESS-RED)](https://t.me/closink)  
+[![MY TGK](https://img.shields.io/badge/FEED-GREEN)](https://t.me/+bNP53gq3IvI5MDcy)  
 
 </div>
 
@@ -16,8 +16,8 @@ MY CASTA:OSINT,SWAT,SNOS`
 
 ##мои проекты
 
-1. **[NEWELL MESSENGER]((https://t.me/+bNP53gq3IvI5MDcy))** - анонимный мессенджер  
-2. **[wrecker snoser]((https://t.me/wrecker_snoserbot))** - бот для сноса
+1. **[NEWELL MESSENGER](https://t.me/+bNP53gq3IvI5MDcy)** - анонимный мессенджер  
+2. **[wrecker snoser](https://t.me/wrecker_snoserbot)** - бот для сноса
 
 ---
 
