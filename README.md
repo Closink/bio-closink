@@ -1,22 +1,23 @@
 <div align="center">
 
-# 🔐 CLOSINK 
-**OSINT | Цифровая защита | Telegram-аналитика**  
+# CLOSINK | CYBER WARFARE UNIT
+**TERMINAL ACCESS: GRANTED**  
 
-`my name:Closink`
+`STATUS: ACTIVE | CLEARANCE: BLACK`  
+`CONTACT: closink@t.me | XMR:45a5txP2Yw8...`  
 
-`my age:17 years old `
-
-`mypups:@grigori_maibah,@GraffX,@Hakeiu,@OpiumOs1nt,@Lezh1gol,@mef_bobka,@VexStorm,@Jrkdhfing`
-
-`date of birth:28.07`
-
-
-[![Контакты](https://img.shields.io/badge/мой_тг-26A5E4?style=for-the-badge&logo=telegram)](https://t.me/closink)  
-[![ТГК](https://img.shields.io/badge/Мой_Канал-0088CC?style=for-the-badge&logo=telegram)](https://t.me/https://t.me/+bNP53gq3IvI5MDcy)  
-
+[![TERMINAL](https://img.shields.io/badge/ACCESS-RED)](https://t.me/closink)  
+[![INTEL](https://img.shields.io/badge/FEED-GREEN)](https://t.me/+bNP53gq3IvI5MDcy)  
 
 </div>
+
+---
+
+## 🔥 LIVE PROJECTS
+Вставьте свои ссылки ниже:
+
+1. **[NEWELL MESSENGER]((https://t.me/+bNP53gq3IvI5MDcy))** - анонимный мессенджер  
+2. **[wrecker snoser]((https://t.me/wrecker_snoserbot))** - бот для сноса
 
 ---
 
@@ -28,15 +29,15 @@
 **сват** | ложное минирование от имени обидчика | 300 звёзд | одноразовая услуга
 **деф** | все услуги в одном  (услуги которые описаны выше)|700 звёзд за месяц|от 1 месяца до года 
 
-
-
 ---
 
-## 💻 МОИ ПРОЕКТЫ
+## PROFILE
+```diff
++ Kali Linux custom build
+! 14 zero-day exploits
+- ENCRYPTED SECTIONS
+<div align="center">
+XMR WALLET
+SYSTEM SECURED
 
-### 1. [newell](https://t.me/+bNP53gq3IvI5MDcy)
-### 2 [wrecker snoser](t.me/wrecker_snoserbot)
-```python
-def erase_digital_trace():
-    # Автоматизация удаления аккаунтов
-    return "All traces cleaned"
+</div>
