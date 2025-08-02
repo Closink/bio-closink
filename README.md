@@ -14,28 +14,9 @@
 ---
 
 ##  𝕸𝖆𝖎𝖓 𝕱𝖗𝖆𝖒𝖊𝖜𝖔𝖗𝖐𝖘
-```python
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-
-class CyberWeaponry:
-    def __init__(self):
-        self.tools = {
-            'NEWELL': {
-                'version': 'no version',
-                'function': 'anonymous messenger',
-                'link': 'https://t.me/+bNP53gq3IvI5MDcy'
-            },
-            'wrecker_snoser': {
-                'version': '2.3.1',
-                'function': 'telegram account snoser',
-                'link': 't.me/wrecker_snoserbot'
-            }
-        }
-        
-    def deploy(self, tool):
-        return f"🚀 {tool} activated | Status: OPERATIONAL"
-```
+1. [Newell messenger](https://t.me/+bNP53gq3IvI5MDcy)-anonymous messenger (under development)
+2. [wrecker_snoser](https://t.me/wrecker_snoserbot)-bot for demolishing accounts in telegram (server updates are coming)
+3. [CHRISTIAN SPETP](https://t.me/c/2265269810/1858)-software for collecting information about a person from open sources (project closed)
 
 # 𝕮𝖗𝖞𝖕𝖙𝖔-𝖆𝖈𝖈𝖊𝖕𝖙𝖊𝖉 𝖔𝖓𝖑𝖞
 |          𝕾𝖊𝖗𝖛𝖎𝖈𝖊          |       𝕱𝖊𝖆𝖙𝖚𝖗𝖊𝖘      |     𝕻𝖗𝖎𝖈𝖊     |
