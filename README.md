@@ -1,6 +1,6 @@
 <div align="center">
 
-# CLOSINK | CYBER WARFARE UNIT
+# CLOSINK
 **TERMINAL ACCESS: GRANTED**  
 
 `STATUS: ACTIVE | CLEARANCE: BLACK`  
@@ -13,8 +13,7 @@
 
 ---
 
-## 🔥 LIVE PROJECTS
-Вставьте свои ссылки ниже:
+##мои проекты
 
 1. **[NEWELL MESSENGER]((https://t.me/+bNP53gq3IvI5MDcy))** - анонимный мессенджер  
 2. **[wrecker snoser]((https://t.me/wrecker_snoserbot))** - бот для сноса
