@@ -39,7 +39,7 @@ class CyberWeaponry:
 
 # 𝕮𝖗𝖞𝖕𝖙𝖔-𝖆𝖈𝖈𝖊𝖕𝖙𝖊𝖉 𝖔𝖓𝖑𝖞
 |          𝕾𝖊𝖗𝖛𝖎𝖈𝖊          |       𝕱𝖊𝖆𝖙𝖚𝖗𝖊𝖘      |     𝕻𝖗𝖎𝖈𝖊     |
-|-------|----------|------|-----
+
 | dox       | searching for information about the abuser |   0.50 USDT   |
 |  snos telegram account       | Telegram account deletion (new registrants only) |  1 USDT   |
 | SWAT   |false mining on behalf of the offender |   7 USDT  |
