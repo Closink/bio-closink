@@ -1,44 +1,52 @@
 <div align="center">
 
-# CLOSINK
-**TERMINAL ACCESS: GRANTED**  
+██████╗░██╗░░░░░███████╗░█████╗░██████╗░██╗███╗░░██╗██╗░░██╗
+██╔══██╗██║░░░░░██╔════╝██╔══██╗██╔══██╗██║████╗░██║██║░██╔╝
+██████╦╝██║░░░░░█████╗░░██║░░██║██████╔╝██║██╔██╗██║█████═╝░
+██╔══██╗██║░░░░░██╔══╝░░██║░░██║██╔══██╗██║██║╚████║██╔═██╗░
+██████╦╝███████╗███████╗╚█████╔╝██║░░██║██║██║░╚███║██║░╚██╗
+╚═════╝░╚══════╝╚══════╝░╚════╝░╚═╝░░╚═╝╚═╝╚═╝░░╚══╝╚═╝░░╚═╝
 
-`STATUS: ACTIVE | CLEARANCE: BLACK`  
-`MY NAME: CLOSINK | 
-MY CASTA:OSINT,SWAT,SNOS`
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+▓ ░▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ ▓
+▓ ░                                                        ░ ▓
+▓ ░  █▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█  ░ ▓
+▓ ░  █  ▄▄▄▄▄ ▄─▄ █▀▄ █▀▀▀█ ▄▄▄ ▄▄▄▄▄ ▄▄▄ █▀▀▀█ ▄▄▄ ▄▄▄▄▄  █  ░ ▓
+▓ ░  █  █ ▄▄  █ █ █▄▀ █▄▄▄█ █▄▄ █ ▄▄ █▄▄ █▄▄▄█ █▄▄ █ ▄▄  █  ░ ▓
+▓ ░  █  █▄▄█  █─█ █─▄ █▄▄▄█ █▄▄ █▄▄█ ▄▄█ █▄▄▄█ █▄▄ █▄▄█  █  ░ ▓
+▓ ░  ▀▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▀  ░ ▓
+▓ ░                                                        ░ ▓
+▓ ░▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ ▓
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
 
-[![ТГ-КОНТАКТ](https://img.shields.io/badge/%E2%98%8E_OPERATIVE_CHAT-26A5E4?style=flat-square&logo=telegram)](https://t.me/closink)
-[![ТГ-ИНТЕЛ](https://img.shields.io/badge/%F0%9F%94%A5_INTEL_FEED-0088CC?style=flat-square&logo=telegram)](https://t.me/+bNP53gq3IvI5MDcy)
-  
+[![TELEGRAM](https://img.shields.io/badge/%F0%9F%93%A7_OFFICIAL_CHANNEL-0088CC?style=for-the-badge&logo=telegram)](https://t.me/+bNP53gq3IvI5MDcy)
+[![CONTACT](https://img.shields.io/badge/%F0%9F%93%AB_DIRECT_CONTACT-26A5E4?style=for-the-badge&logo=telegram)](https://t.me/closink)
 
 </div>
 
 ---
 
-# MY PROJECTS
-
-1. **[NEWELL MESSENGER](https://t.me/+bNP53gq3IvI5MDcy)** - анонимный мессенджер  
-2. **[wrecker snoser](https://t.me/wrecker_snoserbot)** - бот для сноса аккаунтов тг
-
----
-
-## 🛡 УСЛУГИ ЗАЩИТЫ (KEKSOON DEF)
-услуга | Описание | Цена | Срок
--------|----------|------|-----
-**снос аккаунтов** | снос телеграм аккаунтов(только новореги) | 100 звёзд | одноразовая услуга
-**докс** | поиск данных (номер телефона, фио,и тд | от 15 до 100 звёзд (смотря сколько информации найдётся | одноразовая услуга
-**сват** | ложное минирование от имени обидчика | 300 звёзд | одноразовая услуга
-**деф** | все услуги в одном  (услуги которые описаны выше)|700 звёзд за месяц|от 1 месяца до года 
-
----
-
-## PROFILE
-```diff
-+ Kali Linux custom build
-! 14 zero-day exploits
-- ENCRYPTED SECTIONS
+## 〘 𝕻𝖗𝖔𝖏𝖊𝖈𝖙𝖘 〙
+```python
+class CyberTools:
+    def __init__(self):
+        self.newell = "https://t.me/+bNP53gq3IvI5MDcy"
+        self.sniper = "t.me/wrecker_snoserbot"
+        
+    def deploy(self):
+        return "ACTIVE OPERATIONS"
+〘 𝕾𝖊𝖗𝖛𝖎𝖈𝖊𝖘 〙
+diff
++ ACCOUNT_TERMINATE | 0.05 BTC | Instant wipe
++ DEEP_DOX         | 0.2 BTC  | Full package
+! PHANTOM_PROTOCOL | 1.5 BTC  | New identity
+〘 𝕾𝖞𝖘𝖙𝖊𝖒 𝕾𝖙𝖆𝖙𝖚𝖘 〙
+arm
+MOV R0, #0xDEADBEEF
+LDR R1, [R0, #0x1A]
+CMP R1, #0x1337
 <div align="center">
-XMR WALLET
-SYSTEM SECURED
+https://img.shields.io/badge/%25F0%259F%2592%25B0_XMR_WALLET-FF6600?style=for-the-badge
+[https://img.shields.io/badge/%25E2%259C%2594_SYSTEM_SECURED-00FF00?style=for-the-badge]
 
-</div>
+</div> ```
