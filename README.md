@@ -4,7 +4,8 @@
 **TERMINAL ACCESS: GRANTED**  
 
 `STATUS: ACTIVE | CLEARANCE: BLACK`  
-`CONTACT: closink@t.me | XMR:45a5txP2Yw8...`  
+`MY NAME: CLOSINK | 
+MY CASTA:OSINT,SWAT,SNOS`
 
 [![TERMINAL](https://img.shields.io/badge/ACCESS-RED)](https://t.me/closink)  
 [![INTEL](https://img.shields.io/badge/FEED-GREEN)](https://t.me/+bNP53gq3IvI5MDcy)  
