@@ -7,8 +7,9 @@
 `MY NAME: CLOSINK | 
 MY CASTA:OSINT,SWAT,SNOS`
 
-[![MY TG](https://img.shields.io/badge/ТГ-BLUE)](https://t.me/closink)  
-[![MY TGK](https://img.shields.io/badge/ТГК-BLUE)](https://t.me/+bNP53gq3IvI5MDcy)  
+[![ТГ-КОНТАКТ](https://img.shields.io/badge/%E2%98%8E_OPERATIVE_CHAT-26A5E4?style=flat-square&logo=telegram)](https://t.me/closink)
+[![ТГ-ИНТЕЛ](https://img.shields.io/badge/%F0%9F%94%A5_INTEL_FEED-0088CC?style=flat-square&logo=telegram)](https://t.me/+bNP53gq3IvI5MDcy)
+  
 
 </div>
 
