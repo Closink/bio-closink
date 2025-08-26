@@ -14,7 +14,7 @@
 ---
 
 ##  𝕸𝖆𝖎𝖓 𝕱𝖗𝖆𝖒𝖊𝖜𝖔𝖗𝖐𝖘
-1. [Newell messenger](https://t.me/+bNP53gq3IvI5MDcy)-anonymous messenger (under development)
+1. [Newell messenger](https://t.me/+bNP53gq3IvI5MDcy)-anonymous messenger (project closed)
 2. [wrecker_snoser](https://t.me/wrecker_snoserbot)-bot for demolishing accounts in telegram (server updates are coming)
 3. [CHRISTIAN SPETP](https://t.me/c/2265269810/1858)-software for collecting information about a person from open sources (project closed)
 
